@@ -1,0 +1,17 @@
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\bin\Debug\Entidad.dll
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\bin\Debug\AccesoDatos.dll
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\bin\Debug\Entidad.pdb
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\obj\Debug\CapaPresentacion.frmContactos.resources
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Prueba\source\repos\AgendaMultiCapas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

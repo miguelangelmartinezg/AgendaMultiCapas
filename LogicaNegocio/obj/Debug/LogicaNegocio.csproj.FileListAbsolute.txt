@@ -1,0 +1,11 @@
+C:\Users\Prueba\source\repos\AgendaMultiCapas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Prueba\source\repos\AgendaMultiCapas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Prueba\source\repos\AgendaMultiCapas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Prueba\source\repos\AgendaMultiCapas\LogicaNegocio\bin\Debug\Entidad.dll
+C:\Users\Prueba\source\repos\AgendaMultiCapas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Prueba\source\repos\AgendaMultiCapas\LogicaNegocio\bin\Debug\Entidad.pdb
+C:\Users\Prueba\source\repos\AgendaMultiCapas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Prueba\source\repos\AgendaMultiCapas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\source\repos\AgendaMultiCapas\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\Prueba\source\repos\AgendaMultiCapas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Prueba\source\repos\AgendaMultiCapas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

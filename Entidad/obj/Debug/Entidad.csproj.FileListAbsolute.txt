@@ -1,0 +1,6 @@
+C:\Users\Prueba\source\repos\AgendaMultiCapas\Entidad\bin\Debug\Entidad.dll
+C:\Users\Prueba\source\repos\AgendaMultiCapas\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Prueba\source\repos\AgendaMultiCapas\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\Prueba\source\repos\AgendaMultiCapas\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\source\repos\AgendaMultiCapas\Entidad\obj\Debug\Entidad.dll
+C:\Users\Prueba\source\repos\AgendaMultiCapas\Entidad\obj\Debug\Entidad.pdb
